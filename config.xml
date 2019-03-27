@@ -3,7 +3,7 @@
 <widget xmlns ="http://www.w3.org/ns/widgets"
 xmlns:gap ="http://phonegap.com/ns/1.0"
 id ="com.phonegap.app2"
-version ="1.0.0"
+version ="1.0.0"/>
 
 <name>app2-2019 Especialidad tecnico en programacion</name>
 
